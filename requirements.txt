@@ -1,0 +1,5 @@
+streamlit
+pydantic
+numpy
+pandas
+pillow
